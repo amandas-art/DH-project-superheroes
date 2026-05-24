@@ -1,4 +1,4 @@
 # DH-project-superheroes
 Dataset source:
-https://www.kaggle.com/datasets/shreyasur965/super-heroes-dataset
-Licence - CC BY-NC-SA 4.0
+https://www.kaggle.com/datasets/jonathanbesomi/superheroes-nlp-dataset?utm_source=chatgpt.com
+Licence - CC0: Public Domain
